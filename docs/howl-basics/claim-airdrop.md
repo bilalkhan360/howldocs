@@ -6,7 +6,7 @@ sidebar_position: 1
 
 How to claim your $HOWL airdrop.
 
-1. Go to the Howl Social [airdrop claim](https://testnet-claim.howl.social) website
+1. Go to the Howl Social [airdrop claim](https://airdrop.howl.social) website
 2. Click on the connect wallet button
 3. Approve the prompt to add uni-3 to keplr wallet
 4. Approve the connection request prompt
