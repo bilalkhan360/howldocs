@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create a user
 
-Before following this guide buy atleast 5 Juno (minimum price to mint a DENS name) from [Junoswap](https://junoswap.com/) or [Osmosis](https://app.osmosis.zone/?from=OSMO&to=JUNO) 
+Before following this guide buy atleast 5 Juno (minimum price to mint a DENS name) from [Wynd](https://app.wynddao.com/swap) or [Osmosis](https://app.osmosis.zone/?from=OSMO&to=JUNO) 
 
 ## Create a DENS name
 
